@@ -39,7 +39,7 @@ Please cite the following reference if you have used this dataset for your resea
 ```bash
 @misc{HH-LFBB,
   author       = {WaivOps},
-  title        = {{HH-LFBB},
+  title        = {{HH-LFBB}},
   month        = jan,
   year         = 2023,
   doi          = {10.5281/zenodo.0000000},
