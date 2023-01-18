@@ -9,7 +9,7 @@ The purpose of this dataset is to provide accessible content for machine learnin
 
 ## Audio Demo
 
-mp3 link
+N/A
 
 
 ## License
@@ -50,5 +50,5 @@ If you use the HH-LFBB dataset for your research or project, use the following r
 
 ## Feedback
 
-If you have any questions or feedback about this dataset, please email us at waivops@patchbanks.com
+If you have any questions or feedback about this dataset, please email waivops@patchbanks.com.
 
