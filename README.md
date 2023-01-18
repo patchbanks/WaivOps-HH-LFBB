@@ -14,12 +14,12 @@ N/A
 
 ## License
 
-WaivOps is a crowdsourced project managed by the sound label company Patchbanks. All recordings have been sourced and verified for copyright clearance.
+WaivOps is a sound project managed by the sound label company Patchbanks. All recordings have been sourced and verified for copyright clearance.
 
 The HH-LFBB dataset is licensed under Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 ## Download
 
-All files are provided in 24-bit WAV format and encoded at 44.1kHz.
+The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
 
 Direct Download (7.1GB) [hh_lfbb_lps_mid_001-009.tar.gz](https://linktodocumentation)
 
@@ -28,14 +28,14 @@ Direct Download (7.1GB) [hh_lfbb_lps_mid_001-009.tar.gz](https://linktodocumenta
 
 | Label             | Reference                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| bpm  |Refers to the tempo of the audio file|
-| hh |Refers to Hip Hop as the main music genre|
-| lfbb |Refers to lo-fi and boom bap as the sub-genre style|
+| bpm  |The tempo of the audio file|
+| hh |Hip Hop as the main genre|
+| lfbb |Lo-fi and boom bap as the subgenre style|
 | mid_xxx |Musician identification number|
 | _xx |A sequential subset playlist of _mid|
 ## Citations
 
-If you use the HH-LFBB dataset for your research or project, use the following reference:
+Please cite the following reference if you have used this dataset for your research or project:
 ```bash
 @misc{HH-LFBB,
   author       = {WaivOps},
@@ -48,7 +48,9 @@ If you use the HH-LFBB dataset for your research or project, use the following r
 ```
 
 
-## Feedback
+## Additional Info
 
-If you have any questions or feedback about this dataset, please email waivops@patchbanks.com.
+This dataset will be updated as new content becomes available. 
+
+For questions or feedback please email waivops@patchbanks.com.
 
