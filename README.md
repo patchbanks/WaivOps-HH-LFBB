@@ -30,7 +30,7 @@ Direct Download (7.1GB) [hh_lfbb_lps_mid_001-009.tar.gz](https://linktodocumenta
 | ----------------- | ------------------------------------------------------------------ |
 | bpm  |Refers to the tempo of the audio file|
 | hh |Refers to Hip Hop as the main music genre|
-| lfbb |Refers to Lo-Fi and Boom Bap as the sub-genre style|
+| lfbb |Refers to lo-fi and boom bap as the sub-genre style|
 | mid_xxx |Musician identification number|
 | _xx |A sequential subset playlist of _mid|
 ## Citations
