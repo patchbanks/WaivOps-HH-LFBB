@@ -39,7 +39,7 @@ Direct Download (7.1GB) [hh_lfbb_lps_mid_001-009.tar.gz](https://linktodocumenta
 | _xx |A sequential subset playlist of _mid|
 ## Citation
 
-Please cite the following reference if you have used this dataset for your research or project:
+If you use this dataset for a research or development project, please cite the following references:
 ```bash
 @misc{HH-LFBB,
   author       = {WaivOps},
