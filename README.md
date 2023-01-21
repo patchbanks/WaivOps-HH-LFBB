@@ -42,11 +42,11 @@ Direct Download (7.1GB) [hh_lfbb_lps_mid_001-009.tar.gz](https://linktodocumenta
 If you use this dataset for a research or development project, please cite the following references:
 ```bash
 @misc{HH-LFBB,
-  author       = {WaivOps},
-  title        = {{HH-LFBB},
-  year         = 2023,
-  doi          = {10.5281/zenodo.0000000},
-  url          = {https://doi.org/10.5281/zenodo.0000000}
+author = {WaivOps},
+title = {HH-LFBB},
+year = {2023},
+doi = {10.5281/zenodo.0000000},
+url = {https://doi.org/10.5281/zenodo.0000000},
 }
 ```
 
