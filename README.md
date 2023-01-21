@@ -55,5 +55,5 @@ If you use this dataset for a research or development project, please cite the f
 
 This dataset will be updated as new content becomes available. 
 
-For questions or feedback please email waivops@patchbanks.com.
+For any questions about this dataset please email waivops@patchbanks.com.
 
