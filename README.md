@@ -37,7 +37,7 @@ Direct Download (7.1GB) [hh_lfbb_lps_mid_001-009.tar.gz](https://linktodocumenta
 | lfbb |Subgenre (lofi, boombap)|
 | mid_xxx |Musician identification number|
 | _xx |A sequential subset playlist of _mid|
-## Citations
+## Citation
 
 Please cite the following reference if you have used this dataset for your research or project:
 ```bash
