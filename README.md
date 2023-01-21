@@ -8,7 +8,7 @@ HH-LFBB is an open audio dataset containing a series of midi programmed drum rec
 
 ## Dataset
 
-The purpose of this dataset is to provide accessible content for machine learning applications in the field of music and audio sounds. A few use cases include, but not limited to, tempo detection and classification, drum rhythm analysis, audio-to-midi conversion, source separation, automated mixing, music information retrieval, AI music generation, sound design and signal processing.
+The purpose of this dataset is to provide accessible and copyright free content for machine learning applications in the field of music and audio research. A few use cases include tempo detection and classification, drum rhythm analysis, audio-to-midi conversion, source separation, automated mixing, music information retrieval, AI music generation, sound design and signal processing.
 
 
 ## Audio Demo
