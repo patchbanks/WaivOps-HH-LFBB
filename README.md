@@ -4,12 +4,11 @@
 
 ## HH-LFBB Dataset
 
-HH-LFBB is an open audio dataset containing a series of midi programmed drum recordings in the genre of hip hop and urban music rhythms. The current version contains 1796 audio loops recorded in uncompressed stereo WAV format. The dataset consists of unique drum sounds and rhythm compositions recorded at various tempo rates for large-scale augmentation.
+HH-LFBB is an open audio dataset that comprises a series of MIDI-programmed drum recordings in the hip-hop music genre. The dataset consists of 1796 audio loops recorded in uncompressed stereo WAV format, which feature unique drum sounds and rhythm compositions at various tempo rates.
 
 ## Dataset
 
-The purpose of this dataset is to provide accessible and copyright free content for machine learning applications in the field of music and audio research. A few use cases include tempo detection and classification, drum rhythm analysis, audio-to-midi conversion, source separation, automated mixing, music information retrieval, AI music generation, sound design and signal processing.
-
+The primary objective of this dataset is to provide accessible and copyright-free content for machine learning applications in music and audio research. Some potential use cases for this dataset include tempo detection and classification, drum rhythm analysis, audio-to-MIDI conversion, source separation, automated mixing, music information retrieval, AI music generation, sound design, and signal processing.
 
 ## Audio Demo
 
