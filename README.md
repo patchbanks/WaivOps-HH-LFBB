@@ -55,7 +55,7 @@ If you use this dataset for a research or development project, please cite the f
 author = {WaivOps},
 title = {HH-LFBB},
 year = {2023},
-doi = {10.5281/zenodo.0000000},
+doi = {10.5281/zenodo.7523435},
 url = {https://doi.org/10.5281/zenodo.0000000},
 }
 ```
