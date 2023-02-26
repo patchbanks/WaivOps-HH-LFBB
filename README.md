@@ -45,8 +45,8 @@ Direct Download (8.0GB) [hh_lfbb_lps_mid_010-012.tar.gz](https://linktodocumenta
 | bpm  |The tempo of the audio file|
 | hh |Main genre (hip hop)|
 | lfbb |Subgenre (lofi, boombap)|
-| mid_xxx |Musician identification number|
-| _xx |A sequential subset playlist of _mid|
+| mid |Musician identification number|
+| _00 |Playlist track number|
 ## Citation
 
 If you use this dataset for a research or development project, please cite the following references:
