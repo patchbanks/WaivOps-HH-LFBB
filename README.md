@@ -4,20 +4,29 @@
 
 ## HH-LFBB Dataset
 
-HH-LFBB is an open audio dataset that comprises a series of MIDI-programmed drum recordings in the hip-hop music genre. The dataset consists of 1796 audio loops recorded in uncompressed stereo WAV format, which feature unique drum sounds and rhythm compositions at various tempo rates.
+HH-LFBB is an open audio dataset composed of a series of drum recordings in the style of lofi hip-hop music. The dataset contains 3332 audio loops recorded in uncompressed stereo WAV format, produced with custom drum samples and MIDI-programmed rhythms at various tempo rates.
 
 ## Dataset
 
-The primary objective of this dataset is to provide accessible and copyright-free content for machine learning applications in music and audio research. Some potential use cases for this dataset include tempo detection and classification, drum rhythm analysis, audio-to-MIDI conversion, source separation, automated mixing, music information retrieval, AI music generation, sound design, and signal processing.
+The primary objective of this dataset is to provide accessible content for machine learning applications in music and audio research. Some potential use cases for this dataset include tempo detection and classification, drum rhythm analysis, audio-to-MIDI conversion, source separation, automated mixing, music information retrieval, AI music generation, sound design, and signal processing.
 
-## Audio Demo
+**Specifications**
+
+- 3332 audio loops (19.3 hours)
+- 24-bit WAV format
+- BPM labeled
+- Tempo range: 60-96bpm
+- Expressive drum swings
+- Lofi and boom bap style rhythms
+
+## Examples
 
 N/A
 
 
 ## License
 
-WaivOps is a sound project managed by the sound label company Patchbanks. All recordings have been sourced and verified for copyright clearance.
+This dataset is developed by WaivOps, a crowdsourced music project managed by sound label company Patchbanks. All recordings have been compiled by verified sources for copyright clearance.
 
 The HH-LFBB dataset is licensed under Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 ## Download
@@ -25,6 +34,8 @@ The HH-LFBB dataset is licensed under Creative Commons Attribution 4.0 Internati
 The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
 
 Direct Download (7.1GB) [hh_lfbb_lps_mid_001-009.tar.gz](https://linktodocumentation)
+
+Direct Download (8.0GB) [hh_lfbb_lps_mid_010-012.tar.gz](https://linktodocumentation)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7523435.svg)](https://doi.org/10.5281/zenodo.7523435)
 ## File Name Reference
@@ -48,11 +59,8 @@ doi = {10.5281/zenodo.0000000},
 url = {https://doi.org/10.5281/zenodo.0000000},
 }
 ```
-
-
 ## Additional Info
 
 This dataset will be updated as new content becomes available. 
 
-For any questions or feedback please email waivops@patchbanks.com.
-
+For any questions or feedback please email info@patchbanks.com.
