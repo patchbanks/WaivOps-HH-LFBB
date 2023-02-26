@@ -40,13 +40,14 @@ Direct Download (8.0GB) [hh_lfbb_lps_mid_010-012.tar.gz](https://linktodocumenta
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7523435.svg)](https://doi.org/10.5281/zenodo.7523435)
 ## File Name Reference
 
-| Label             | Reference                                                                |
+| **Label**             | **Reference**                                                  |
 | ----------------- | ------------------------------------------------------------------ |
-| bpm  |The tempo of the audio file|
-| hh |Main genre (hip hop)|
-| lfbb |Subgenre (lofi, boombap)|
-| mid |Musician identification number|
-| _00 |Playlist track number|
+| bpm  | The tempo of the audio file|
+| hh | Main genre (hip hop)|
+| lfbb | Subgenre (lofi, boombap)|
+| mid | Musician identification number|
+| _00 | Playlist track number|
+
 ## Citation
 
 If you use this dataset for a research or development project, please cite the following references:
@@ -56,7 +57,7 @@ author = {WaivOps},
 title = {HH-LFBB},
 year = {2023},
 doi = {10.5281/zenodo.7523435},
-url = {https://doi.org/10.5281/zenodo.0000000},
+url = {https://doi.org/10.5281/zenodo.7523435},
 }
 ```
 ## Additional Info
