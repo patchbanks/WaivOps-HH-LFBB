@@ -33,9 +33,9 @@ The HH-LFBB dataset is licensed under Creative Commons Attribution 4.0 Internati
 
 The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
 
-Direct Download (7.1GB) [https://zenodo.org/record/7523435/files/hh_lfbb_lps_mid_001-009.tar.gz?download=1)
+Direct Download (7.1GB) [hh_lfbb_lps_mid_001-009.tar.gz](https://zenodo.org/record/7523435/files/hh_lfbb_lps_mid_001-009.tar.gz?download=1)
 
-Direct Download (8.0GB) [https://zenodo.org/record/7523435/files/hh_lfbb_lps_mid_010-012.tar.gz?download=1)
+Direct Download (8.0GB) [hh_lfbb_lps_mid_010-012.tar.gz](https://zenodo.org/record/7523435/files/hh_lfbb_lps_mid_010-012.tar.gz?download=1)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7523435.svg)](https://doi.org/10.5281/zenodo.7523435)
 ## File Name Reference
