@@ -54,7 +54,7 @@ If you use this dataset for a research or development project, please cite the f
 ```bash
 @misc{HH-LFBB,
 author = {WaivOps},
-title = {HH-LFBB},
+title = {WaivOps HH-LFBB: Open Audio Resources for Machine Learning in Music},
 year = {2023},
 doi = {10.5281/zenodo.7523435},
 url = {https://doi.org/10.5281/zenodo.7523435},
